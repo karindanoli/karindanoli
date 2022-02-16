@@ -28,10 +28,10 @@
 &nbsp;
 <a href="https://www.mysql.com/" target="_blank"> <img src="images/mysql.svg" alt="mysql" width="50" height="50" title="MySQL"/></a>
 &nbsp; 
-<a href="" target="_blank"> <img src="images/amazonaws.svg" alt="mongo" width="50" height="50" title="MongoDb"/> </a>
+<a href="" target="_blank"> <img src="images/amazonaws.svg" alt="mongo" width="50" height="50" title="AWS"/> </a>
 &nbsp;
 <a href="https://git-scm.com/" target="_blank"> <img src="images/git.svg" alt="git" width="50" height="50" title="GIT"/> </a> 
 &nbsp;
-<a href="" target="_blank"> <img src="images/springboot.svg" alt="mongo" width="50" height="50" title="MongoDb"/> </a>
+<a href="" target="_blank"> <img src="images/springboot.svg" alt="mongo" width="50" height="50" title="SpringBoot"/> </a>
 
  
