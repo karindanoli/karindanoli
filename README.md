@@ -10,7 +10,6 @@
 - 🐍 Gosto muito de Machine learning
 
 
-
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 <a href="https://www.python.org" target="_blank"> <img src="images/python.svg" alt="python" width="50" height="50" title="Python"/> </a>
 &nbsp;
@@ -28,10 +27,10 @@
 &nbsp;
 <a href="https://www.mysql.com/" target="_blank"> <img src="images/mysql.svg" alt="mysql" width="50" height="50" title="MySQL"/></a>
 &nbsp; 
-<a href="" target="_blank"> <img src="images/amazonaws.svg" alt="mongo" width="50" height="50" title="AWS"/> </a>
+<a href="" target="_blank"> <img src="images/amazonaws.svg" alt="AWS" width="50" height="50" title="AWS"/> </a>
 &nbsp;
 <a href="https://git-scm.com/" target="_blank"> <img src="images/git.svg" alt="git" width="50" height="50" title="GIT"/> </a> 
 &nbsp;
-<a href="" target="_blank"> <img src="images/springboot.svg" alt="mongo" width="50" height="50" title="SpringBoot"/> </a>
+<a href="" target="_blank"> <img src="images/springboot.svg" alt="SpringBoot" width="50" height="50" title="SpringBoot"/> </a>
 
  
