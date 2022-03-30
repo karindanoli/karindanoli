@@ -8,6 +8,7 @@
 ### Estou aprendendo sobre Java, Python e AWS
 - 🔭 Estou aprendendo sobre REST API em Java e Python :grin:
 - 🐍 Gosto muito de Machine learning
+- CV da Karin: karindeoliveira.github.io
 
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
