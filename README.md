@@ -8,7 +8,8 @@
 ### Estou aprendendo sobre Java, Python e AWS
 - 🔭 Estou aprendendo sobre REST API em Java e Python :grin:
 - 🐍 Gosto muito de Machine learning
-- <a href=“https://karindanoli.github.io/“>CV da Karin</a>
+
+https://karindanoli.github.io/ <<---- CV da Karin ⚡
 
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
